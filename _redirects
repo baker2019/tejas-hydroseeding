@@ -1,9 +1,0 @@
-# *** Warning! Your custom domain is not using HTTPS yet ***
-# These rules will change if you change your site’s custom domains or HTTPS settings
-
-# Optional: Redirect default Netlify subdomain to primary domain
-http://tejashydroseeding.netlify.com/* http://tejashydroseeding.net/:splat 301!
-
-www.tejashydroseeding.netlify.com/* http://tejashydroseeding.net/:splat 301!
-
-/index.html  /
