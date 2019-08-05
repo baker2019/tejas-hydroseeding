@@ -6,3 +6,4 @@ http://tejashydroseeding.netlify.com/* http://tejashydroseeding.net/:splat 301!
 
 www.tejashydroseeding.netlify.com/* http://tejashydroseeding.net/:splat 301!
 
+/index.html  /
